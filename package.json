@@ -1,0 +1,19 @@
+{
+  "name": "tweetforceone",
+  "version": "0.0.1",
+  "description": "A command line twitter client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmcatee/tweetForceOne.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmcatee/tweetForceOne/issues"
+  },
+  "homepage": "https://github.com/danmcatee/tweetForceOne#readme"
+}
