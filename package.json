@@ -1,6 +1,9 @@
 {
   "name": "tweetforceone",
   "version": "0.0.1",
+  "bin": {
+    "twfo": "./bin/tweetforceone.js"
+  },
   "description": "A command line twitter client",
   "main": "index.js",
   "scripts": {
